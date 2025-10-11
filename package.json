@@ -6,6 +6,7 @@
   "scripts": {
     "dev:vue": "pnpm --filter vue-lib run dev",
     "dev:react": "pnpm --filter react-lib run dev",
+    "dev:backend": "pnpm --filter backend run dev",
     "build": "pnpm -r run build"
   },
   "keywords": [
