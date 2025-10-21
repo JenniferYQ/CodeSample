@@ -8,8 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "shared": "workspace:*",
     "vue": "^3.3.4",
-    "shared": "workspace:*"
+    "vue-router": "^4.6.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
